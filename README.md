@@ -20,4 +20,4 @@ VistaMed
 ![Просмотр тикета](https://github.com/sinyawskiy/vistamed/blob/master/img/2.png?raw=true)
 
 Редактирование и удаление
-![Просмотр тикета](https://github.com/sinyawskiy/vistamed/blob/master/img/2.png?raw=true)
+![Просмотр тикета](https://github.com/sinyawskiy/vistamed/blob/master/img/3.png?raw=true)
